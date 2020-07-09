@@ -1,0 +1,7 @@
+{
+  "calc_001": { "num1": 1, "num2": 2, "expect": 3 },
+  "calc_002": { "num1": 1001, "num2": 2, "expect": 1003 },
+  "calc_003": { "num1": 99, "num2": 2, "expect": 101 },
+  "calc_004": { "num1": 99, "num2": 3, "expect": 102 },
+  "calc_005": { "num1": 99, "num2": 4, "expect": 103 }
+}
